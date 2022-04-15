@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daa67bfc3b83717dc8f74ed01e108b47",
+    "revision": "5c9f73118de316861d033329735cbc38",
     "url": "https://alirezaac.github.io/csb-vs24e0/index.html"
   },
   {
-    "revision": "dc8763cf99b695793f05",
+    "revision": "54035419db87824c29ec",
     "url": "https://alirezaac.github.io/csb-vs24e0/static/css/main.7e8f607e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alirezaac.github.io/csb-vs24e0/static/js/2.4eb410be.chunk.js"
   },
   {
-    "revision": "dc8763cf99b695793f05",
-    "url": "https://alirezaac.github.io/csb-vs24e0/static/js/main.0c991c55.chunk.js"
+    "revision": "54035419db87824c29ec",
+    "url": "https://alirezaac.github.io/csb-vs24e0/static/js/main.7b5b6689.chunk.js"
   },
   {
     "revision": "75c172b913c2967fbe8e",
